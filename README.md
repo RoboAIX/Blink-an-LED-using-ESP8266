@@ -2,7 +2,7 @@
 
 This guide will help you configure the **Arduino IDE** to program the **NodeMCU ESP8266 (ESP-12E Module)**. Follow these simple steps to install the required packages and libraries.
 
-## 🔧 Step-by-Step Setup
+## 🔧 Step-by-Step Setup 
 
 ### 1. Add ESP8266 Board URL
 
