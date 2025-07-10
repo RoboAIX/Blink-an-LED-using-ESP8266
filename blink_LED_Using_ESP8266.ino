@@ -1,9 +1,8 @@
-//Paste the code snippet copied from Blynk Web Dashboard
+//Replace with your Template ID, Device Name, and Auth Token from Blynk Web Console.
 
-// Example
-// #define BLYNK_TEMPLATE_ID "TMPL32s43QfvL"
-// #define BLYNK_TEMPLATE_NAME "Blink LED"
-// #define BLYNK_AUTH_TOKEN "-gZIyUkmdvfO_pw5uTh7Iu7_ge-5xSaB"
+#define BLYNK_TEMPLATE_ID "TMPL32s43QfvL"
+#define BLYNK_TEMPLATE_NAME "Blink LED"
+#define BLYNK_AUTH_TOKEN "-gZIyUkmdvfO_pw5uTh7Iu7_ge-5xSaB"
 
 
 #include <ESP8266WiFi.h>
